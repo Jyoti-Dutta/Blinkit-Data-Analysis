@@ -1,0 +1,1 @@
+SELECT * FROM blinkit.dbo.blinkit_data
